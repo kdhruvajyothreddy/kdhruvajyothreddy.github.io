@@ -1,4 +1,4 @@
-- layout: left
+- layout: top-middle
   name: University of the Cumberlands
   dates: 2018 - 2019
   qualification: MS in Information Technology (discontinued)
@@ -10,7 +10,7 @@
   #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
 
-- layout: left
+- layout: top-middle
   name: Virginia International University
   dates: 2014 - 2015
   qualification: MS in Information Systems
@@ -22,7 +22,7 @@
   #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
 
-- layout: left
+- layout: top-middle
   name: Osmania University
   dates: 2007 - 2011
   qualification: BE in Electronics and Communication Engineering
