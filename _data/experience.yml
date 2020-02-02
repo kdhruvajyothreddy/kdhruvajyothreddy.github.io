@@ -38,5 +38,30 @@
     
     Performed User and Password management using AWS IAM.
     
-    Implemented AWS S3 to back up the database instances and to save the snapshots of data.
+    Implemented AWS S3 to back up the database instances and to save the snapshots of data.  
+  
+  company: United States Postal Service
+  location: San Mateo, California
+  job_title: Build and Release Engineer
+  dates: January 2016 - August 2016
+  # quote: >
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    Installing, configuring and administering Jenkins CI tool on Linux machines. Developed build and deployed processes for Pre-production environments.
+    
+    Automated weekly releases with Maven for compiling Java code, Debugging and placing builds into Maven repository.
+    
+    Used GitHub as source code repository.
+    
+    Implemented the setup for Master slave architecture to improve the performance of Jenkins
+    
+    Used Jenkins for Continuous Integration and deployment into Tomcat Application server.
+    
+    Installed and configured the Nexus repository manager for sharing the artifacts within the company
+    
+    Releasing code to testing regions or staging areas according to the schedule published
+    
+    Participated in Product release and patches
+    
+    Used Jira as ticket tracking and work flow tool.
   
