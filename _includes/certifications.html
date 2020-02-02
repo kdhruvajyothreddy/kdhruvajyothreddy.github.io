@@ -1,4 +1,4 @@
-<div class="container education-container">
+<div class="container certifications-container">
     <h3>{{ site.certification_title | default: "Certifications" }}</h3>
     {% for certification in site.data.certifications %}
       {% include {{ education.layout | default: 'left' | append: ".html" }} item=certification %}
