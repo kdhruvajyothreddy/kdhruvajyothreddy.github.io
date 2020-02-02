@@ -26,25 +26,44 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Dhruv and I'm a DevOps Engineer. As well as configuring systems I also have experience as a Market Research Analyst.
 
-  I am a skilled professional with overall work history of 5 years, but close to 3 years of experience in CI/CD (Continuous Integration / Continuous Deployment) process, background in Build and Release Management, AWS Cloud Operation and Deployment automation. |
-  Excellent understanding of SDLC, Traditional and Agile methodologies. |
-  Work within and across Agile teams to design, develop, test, implement, and support technical solutions across a full stack of development tools and technologies, and tracking all stories on JIRA and VersionOne. |
-  Expertise in writing shell scripts for deployment of Java applications. |
-  Broad understanding of Java development. |
-  Worked on Ubuntu and CentOS environments. |
-  Good understanding of the DevOps philosophy. |
-  Strong knowledge on source controller concepts like Branches, Merges and Tags. |
-  Expertise in using Maven build tool for the building of deployable artifacts such as wars and jars from the source code. |
-  Familiar with integrating Junit, PMD and other code quality Tests as a part of build process. |
-  Managing and supporting Tomcat application server. |
-  Involved in the functional usage and deployment of applications in WebSphere and Tomcat servers. |
-  Proficient in build tools like Jenkins to automate and precompile the code for the build process. |
-  Automate deployments through Ansible. |
-  Experience in Logging and Server Monitoring to troubleshoot whenever necessary. |
-  Managed Kubernetes pods, Docker containers and used Docker Swarm for orchestration. |
-  Good understanding of the principles and best practices of Software Configuration Management (SCM) in Agile, Scrum and Waterfall methodologies. |
-  Experience in Administration/maintenance of source control management system, such as Git. |
-  Good working experience in troubleshooting the problems generated while building, deploying and in production support. |
+  I am a skilled professional with overall work history of 5 years, but close to 3 years of experience in CI/CD (Continuous Integration / Continuous Deployment) process, background in Build and Release Management, AWS Cloud Operation and Deployment automation.
+
+  Excellent understanding of SDLC, Traditional and Agile methodologies.
+
+  Work within and across Agile teams to design, develop, test, implement, and support technical solutions across a full stack of development tools and technologies, and tracking all stories on JIRA and VersionOne.
+
+  Expertise in writing shell scripts for deployment of Java applications.
+
+  Broad understanding of Java development.
+
+  Worked on Ubuntu and CentOS environments.
+
+  Good understanding of the DevOps philosophy.
+
+  Strong knowledge on source controller concepts like Branches, Merges and Tags.
+
+  Expertise in using Maven build tool for the building of deployable artifacts such as wars and jars from the source code.
+
+  Familiar with integrating Junit, PMD and other code quality Tests as a part of build process.
+
+  Managing and supporting Tomcat application server.
+
+  Involved in the functional usage and deployment of applications in WebSphere and Tomcat servers.
+
+  Proficient in build tools like Jenkins to automate and precompile the code for the build process.
+
+  Automate deployments through Ansible.
+
+  Experience in Logging and Server Monitoring to troubleshoot whenever necessary.
+
+  Managed Kubernetes pods, Docker containers and used Docker Swarm for orchestration.
+
+  Good understanding of the principles and best practices of Software Configuration Management (SCM) in Agile, Scrum and Waterfall methodologies.
+
+  Experience in Administration/maintenance of source control management system, such as Git.
+
+  Good working experience in troubleshooting the problems generated while building, deploying and in production support.
+  
   Good communication, interpersonal, intuitive, analysis with ability to work efficiently in both independent and team work environments. |
 
 
