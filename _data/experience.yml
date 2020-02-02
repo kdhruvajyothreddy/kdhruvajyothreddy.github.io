@@ -6,4 +6,37 @@
   # quote: >
   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    Created Shell scripts for automation of different application deployments respectively to different environments like DEV, SIT, CAT etc. Deployed Java applications in Tomcat application servers. Automated the build process using Jenkins and scheduled build jobs daily for the sanity check of the Java code checked in by the developers. Created jobs in Jenkins to build applications using Maven. In addition, developed scripts to deploy artifacts in different environments. Created Branches and performed Merges using Git. Worked efficiently with applications development team to implement, test and rollout new patch releases. Involved in periodic archiving and storage of the source code for disaster recovery. Automated weekly releases with Maven for compiling Java code, debugging and placing builds into Maven repository. Worked closely with developers to pinpoint and provide early warnings of common build failures. Created monitors, alarms and notifications for EC2 hosts using Cloud watch, and Nagios, ELK stack to monitor services other than AWS and real-time application logs streaming. Worked on container-based deployments using Docker. Trouble-shoot Continuous integration and automated deployment and management using Jenkins, Ansible, Maven, Kubernetes, Docker and Docker Swarm. Used both Kubernetes and Docker Swarm in different projects for container orchestration. Creating S3 buckets and managing policies for S3 buckets and Utilized S3 bucket and Designed policies. Administration of Load Balancers and Auto scaling for high availability. Performed User and Password management using AWS IAM. Implemented AWS S3 to back up the database instances and to save the snapshots of data.
+    Created Shell scripts for automation of different application deployments respectively to different environments like DEV, SIT, CAT etc.
+    
+    Deployed Java applications in Tomcat application servers.
+    
+    Automated the build process using Jenkins and scheduled build jobs daily for the sanity check of the Java code checked in by the developers.
+    
+    Created jobs in Jenkins to build applications using Maven. In addition, developed scripts to deploy artifacts in different environments.
+    
+    Created Branches and performed Merges using Git.
+    
+    Worked efficiently with applications development team to implement, test and rollout new patch releases.
+    
+    Involved in periodic archiving and storage of the source code for disaster recovery
+    
+    Automated weekly releases with Maven for compiling Java code, debugging and placing builds into Maven repository.
+    
+    Worked closely with developers to pinpoint and provide early warnings of common build failures.
+    
+    Created monitors, alarms and notifications for EC2 hosts using Cloud watch, and Nagios, ELK stack to monitor services other than AWS and real-time application logs streaming.
+    
+    Worked on container-based deployments using Docker.
+    
+    Trouble-shoot Continuous integration and automated deployment and management using Jenkins, Ansible, Maven, Kubernetes, Docker and Docker Swarm.
+    
+    Used both Kubernetes and Docker Swarm in different projects for container orchestration.
+    
+    Creating S3 buckets and managing policies for S3 buckets and Utilized S3 bucket and Designed policies.
+    
+    Administration of Load Balancers and Auto scaling for high availability.
+    
+    Performed User and Password management using AWS IAM.
+    
+    Implemented AWS S3 to back up the database instances and to save the snapshots of data.
+  
