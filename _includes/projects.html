@@ -2,23 +2,10 @@
     <h3>{{ site.projects_title | default: "Certifications" }}</h3>
     {% for project in site.data.projects %}
       {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
-      {% if project.external_url %}
+      <!-- {% if project.external_url %}
         <dd class="{{project.external_site">
             [{{project.title}}]({{project.external_url}})
         </dd>
-      {% endif %}
+      {% endif %} -->
     {% endfor %}
 </div>
-<style>
-    dl dd.thoughtbot:before {
-        height: 26px;
-        width: 27px;
-        content: " ";
-        background: url("ralph.png") no-repeat;
-        background-size: cover;
-        position: relative;
-        display: inline-block;
-        top: 4px;
-        margin-right: 6px; 
-    }
-</style>
