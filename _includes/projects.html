@@ -2,5 +2,10 @@
     <h3>{{ site.projects_title | default: "Certifications" }}</h3>
     {% for project in site.data.projects %}
       {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
+      {% if post.external_url %}
+      <dd class="{{project.external_site">
+          [{{project.title}}]({{project.external_url}})
+      </dd>
+      {% endif %}
     {% endfor %}
 </div>
