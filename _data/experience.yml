@@ -6,7 +6,7 @@
   # quote: >
   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-  •	Created Shell scripts for automation of different application deployments respectively to different environments like DEV, SIT, CAT etc. |
+  - Created Shell scripts for automation of different application deployments respectively to different environments like DEV, SIT, CAT etc. |
   •	Deployed Java applications in Tomcat application servers. |
   •	Automated the build process using Jenkins and scheduled build jobs daily for the sanity check of the Java code checked in by the developers. |
   •	Created jobs in Jenkins to build applications using Maven. In addition, developed scripts to deploy artifacts in different environments. |
