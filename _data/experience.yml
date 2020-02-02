@@ -38,7 +38,8 @@
     
     Performed User and Password management using AWS IAM.
     
-    Implemented AWS S3 to back up the database instances and to save the snapshots of data.  
+    Implemented AWS S3 to back up the database instances and to save the snapshots of data.
+
   
 - layout: left  
   company: United States Postal Service
@@ -65,4 +66,21 @@
     Participated in Product release and patches
     
     Used Jira as ticket tracking and work flow tool.
+
+
+- layout: left  
+  company: Advanced Business Solutions Pvt. Ltd.
+  location: Hyderabad, India
+  job_title: Qualitative Market Research Consultant
+  dates: January 2012 - December 2013
+  # quote: >
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    Conducted research and managed the collection and analysis of data to identify market trends, risks and competitive forces and distributed the information to appropriate internal audiences.
+    
+    Suggested clients on how to approach Indian market based on the available data.
+    
+    Completed an end to end project and helped a German company, as a part of a team, to meet their goal of setting up a pilot manufacturing plant in India.
+    
+    Promoted to Qualitative Market Research Consultant after 8 months as Qualitative Market Research Associate.
   
